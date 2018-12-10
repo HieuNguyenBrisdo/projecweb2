@@ -1,0 +1,8 @@
+.product-img{
+	text-align: center;
+}
+
+.active > span
+{
+	color: white !important;
+}
